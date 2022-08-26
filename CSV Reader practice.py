@@ -141,7 +141,7 @@ class PortScanResults (EasyFrame):
         PortNum = self.PortLB.get(ANCHOR)
         PopPort = TrackByCount()
         PopPort.PopulateDnary(self.FileText)                                                                
-        PopPort.SaveDnaryToFile("GammillPortCount.csv")
+        PopPort.SaveDnaryToFile("PortCount.csv")
         SortedDnary = PopPort.GetSortedDnary()
         IPAndDateDnary = PopPort.GetPortDnary()                                         #The dictionary of {Port: [IP,Date],[IP,Date] ...}
         IPList = []                                                                     #a blank list for the list of tuples
