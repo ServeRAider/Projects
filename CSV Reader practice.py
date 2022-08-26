@@ -1,8 +1,6 @@
-#GammillFinalExam.py
+#FinalExam.py
 """
-Name: Chance Gammill
-Date: 11/27/21
-Class: CSEC 1436
+
 
     Purpose: Design a GUI application that will allow the user to take a CSV file with IP, date, and port nums
              and sort it towards finding more specific information about each port, IP, or date. 
