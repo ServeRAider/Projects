@@ -8,7 +8,7 @@ The project labeled Port Scanner.py is a program used to check what ports within
 The project Luck Seven Game.py was an attempt at creating a game using 2 random dice. The user enters the amount they would like to wager (1-100). The final result will 
 tell the user how many times the dice were rolled and what the maximum amount they had at one time is. 
 
-The project labeled CSV Reader practice.py is accompanied by 3 class files to practice creating my own classes as well a GUI. 
+The project labeled CSV Reader practice.py is accompanied by 3 class files to practice creating my own classes as well as a GUI. 
 I've attached a CSV file labeled CSVPortScanHistory as an example of how the program works. It allows the user to use
 a GUI to select the CSV file they would like to gather info from. Then it prints out the result in a specific format. 
 
